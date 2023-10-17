@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Farmer Management System**
 
-- 🌱 I’m currently learning **JS,PHP,MYSQL**
+- 🌱 I’m currently learning **Machine Learning and Data Science**
 
 - 💬 Ask me about **C, Java, Python, HTML and CSS**
 
