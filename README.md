@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhoomi0304&label=Profile%20views&color=0e75b6&style=flat" alt="bhoomi0304" /> </p>
 
-- 🔭 I’m currently working on **Brain Tumor Detection using CNN**
+- 🔭 I’m currently working on **Brain Tumor Detection using CNS**
 
 - 🌱 I’m currently learning **Machine Learning and Data Science**
 
