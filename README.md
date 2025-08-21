@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bhoomika</h1>
-<h3 align="center">Aspiring AIML Undergrad</h3>
+<h3 align="center">AIML Graduate</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhoomi0304&label=Profile%20views&color=0e75b6&style=flat" alt="bhoomi0304" /> </p>
 
